@@ -13,5 +13,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Praneethchakri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethchakri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📊 GitHub Stats
+
+![Praneeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneethchakri&show_icons=true&theme=default)
+
+### 🔤 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethchakri&layout=compact&langs_count=8)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Praneethchakri&icon=0&color=0)](https://visitcount.itsvg.in)
